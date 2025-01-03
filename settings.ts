@@ -9,9 +9,9 @@
 import { HelperSetting } from '@/helper/types';
 import { SettingType } from '@/setting/schemas/types';
 
-export const TENSORFLOW_NLU_HELPER_NAME = 'TENSORFLOW-nlu-helper';
+export const TENSORFLOW_NLU_HELPER_NAME = 'tensorflow-nlu-helper';
 
-export const TENSORFLOW_NLU_HELPER_NAMESPACE = 'TENSORFLOW_nlu_helper';
+export const TENSORFLOW_NLU_HELPER_NAMESPACE = 'tensorflow_nlu_helper';
 
 export default [
   {
