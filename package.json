@@ -1,6 +1,6 @@
 {
   "name": "hexabot-helper-tensorflow",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "The Core Tensorflow NLU Helper Extension for Hexabot Chatbot / Agent Builder to enable the Intent Classification and Language Detection",
   "dependencies": {},
   "author": "Hexastack",
